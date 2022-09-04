@@ -1,0 +1,117 @@
+.e9_5 { 
+	/* width:1414px;
+	height:1917px; */
+	position:absolute;
+	/* margin: 0 auto; */
+}
+.e1_2 { 
+	color:rgba(0, 0, 0, 1);
+	width:434px;
+	height:49px;
+	position:absolute;
+	left:25rem;
+	
+	top:0px;
+	font-family:Zen Antique;
+	text-align:center;
+	font-size:64px;
+	letter-spacing:0;
+}
+.e3_4 { 
+	box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
+	width:336px;
+	height:346px;
+	position:absolute;
+	left: 28.5rem;
+	top:100px;
+	background-image:url(images/image_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+	border-radius: 50%;
+}
+.e3_4 { 
+	border:8px solid rgba(246.49999290704727, 138.69733035564423, 78.05832982063293, 1);
+}
+.e1_4 { 
+	color:rgba(255, 107.10000425577164, 0, 1);
+	width:763px;
+	height:49px;
+	position:absolute;
+	left:16rem;
+	top:460px;
+	font-family:Zen Antique;
+	text-align:center;
+	font-size:36px;
+	letter-spacing:0;
+}
+.e7_3 { 
+	color:rgba(0, 0, 0, 1);
+	width:340px;
+	height:40px;
+	position:absolute;
+	left:30rem;
+	top:534px;
+	font-family:Zen Antique;
+	text-align:center;
+	font-size:32px;
+	letter-spacing:0;
+}
+.e9_15 { 
+	width:608px;
+	height:342px;
+	position:absolute;
+	left:22.5rem;
+	top:604px;
+	background-image:url(images/part1_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e7_4 { 
+	color:rgba(0, 0, 0, 1);
+	width:271px;
+	height:40px;
+	position:absolute;
+	left:31rem;
+	top:976px;
+	font-family:Zen Antique;
+	text-align:right;
+	font-size:32px;
+	letter-spacing:0;
+}
+.e9_19 { 
+	width:638px;
+	height:372px;
+	position:absolute;
+	left:21.5rem;
+	top:1046px;
+	background-image:url(images/weather_prediction_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e9_2 { 
+	color:rgba(0, 0, 0, 1);
+	width:1052px;
+	height:82px;
+	position:absolute;
+	left:125px;
+	top:1448px;
+	font-family:Zen Antique;
+	text-align:center;
+	font-size:36px;
+	letter-spacing:0;
+}
+.e9_3 { 
+	color:rgba(0, 0, 0, 1);
+	width:479px;
+	height:288px;
+	position:absolute;
+	left:418px;
+	top:1560px;
+	font-family:Zen Antique;
+	text-align:center;
+	font-size:36px;
+	letter-spacing:0;
+}
+a {
+	color:#FF6B00;
+}
